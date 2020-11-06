@@ -1,0 +1,22 @@
+body {
+    background-color: #DCDCDC;
+    margin: auto;
+}
+font {
+    color: black;
+}
+table {
+     
+    align: center; 
+    width: 1250px; 
+}
+.home {
+    text-align: center;
+}
+hr {
+    color: black;
+}
+.event {
+    background-color:aquamarine;
+    
+}
